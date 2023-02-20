@@ -5,7 +5,7 @@
 % Parameters
 alpha = 0.1;
 beta = 0.3;
-epsilon = 0.1;
+epsilon = 0;
 
 % Set up continuous closed curve (DO NOT CHANGE)
 tMin = 0;
